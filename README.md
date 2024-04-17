@@ -1,1 +1,1 @@
-# blazor-projeto-inventario
+Aplicação blazor simulando um cadastro de inventário.
