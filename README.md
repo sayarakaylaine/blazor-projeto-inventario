@@ -1,2 +1,2 @@
 # Projeto Inventário
-Aplicação blazor simulando um cadastro de inventário.
+Aplicação Blazor simulando um cadastro de inventário.
